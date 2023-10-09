@@ -1,0 +1,49 @@
+.seccion2{
+  font-family: 'Josefin Sans', sans-serif;
+  position:relative;
+  width: 100%;
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image2{
+  width: 100%;
+  object-fit: cover;
+  }
+.text2{
+  width: 900px;
+  font-size: 40px;
+  top:100vh;
+  position: absolute;
+  transition: scale .5s;
+}
+.text2:hover{
+  scale:1.2;
+}
+.Cont-cuadros{
+  position: absolute;
+  width: 100%;
+  display: flex;
+  top:150vh;
+  flex-direction: column;
+  gap:20px;
+  align-items: center;
+}
+.cont-text-2{
+  width: 55%;
+  margin-top: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+}
+.sub-title{
+  margin-top: 250px;
+  font-size: 80px;
+}
+.cont-text-2 img{
+  width: 800px;
+}
