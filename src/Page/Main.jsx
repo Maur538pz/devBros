@@ -27,7 +27,7 @@ export const Main = () =>{
                 }
                 <img src={infografia}/>
                 </div>
-                <h2 className="sub-title">El fitoplancton y su inportancia</h2>
+                <h2 className="sub-title">El fitoplancton y su importancia</h2>
                 <div className="cont-text-2">
                     {
                         texto2.map(({id,texto})=><Texto 
