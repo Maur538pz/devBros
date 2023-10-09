@@ -45,7 +45,12 @@ export const Main = () =>{
                             />)
                     }
                 </div>
+
             </div>
+            <div className="cont-img3">
+                <img src="https://assets.spaceappschallenge.org/media/images/SpaceAppsLogo_Default_2ColorWhi.width-440.jpegquality-60.png" />
+            </div>
+
 
       </section>
     )

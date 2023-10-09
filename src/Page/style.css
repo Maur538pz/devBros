@@ -47,3 +47,16 @@
 .cont-text-2 img{
   width: 800px;
 }
+.cont-img3{
+  position: absolute;
+  bottom: 80px;
+  width: 800px;
+  height: 800px;
+  display: grid;
+  place-items: center;
+
+
+}
+.cont-img3 img{
+  scale: 1.3;
+}

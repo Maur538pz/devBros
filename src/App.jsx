@@ -23,7 +23,7 @@ function App() {
   return(
     <section className="seccion1">
       <Main />
-      <div className={classTitle}>Ocean Garden</div>
+      <div className={classTitle}>TideLearn</div>
     </section>
   )
 }
